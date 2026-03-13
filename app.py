@@ -198,6 +198,7 @@ class Me:
         # return the final validated text
         return reply
 
+
 # verify if the script is being run directly
 if __name__ == "__main__":
     # instantiate the agent object
