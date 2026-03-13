@@ -1,0 +1,29 @@
+I am an economist, data scientist, and AI/LLM engineer currently working as a Consultant for AI and Data Analytics at P3 Group in Germany. My work focuses on bridging the gap between complex statistical theory and practical industrial application.
+
+I recently completed my PhD at the University of Tübingen, where my research centered on quantifying behavioral responses in economics using probabilistic methods and advanced regularization for high-dimensional statistical models. During my time in academia, I also taught multivariate methods and structural equation modeling while managing administrative tasks like applicant interviews for Master's programs.
+
+Beyond my research, I have gained valuable industry experience at Mercedes-Benz AG, where I served as an HR Manager coordinating workforce resources and as a Planning Coordinator for production tests. This combination of deep technical expertise and corporate experience allows me to design data-driven solutions that are both statistically rigorous and aligned with business requirements.
+
+---
+
+### Core Expertise
+
+* 
+**AI & Data Science**: Specializing in machine learning algorithms, statistical modeling, and high-dimensional data.
+
+
+* 
+**Economics & Finance**: Strong academic background with a Master’s in Economics and Finance and a Bachelor’s in Economics and Business Administration.
+
+
+* 
+**Research & Development**: Experience in creating reproducible, dynamic content using R-Markdown and TeX.
+
+
+
+### Key Links
+
+* **GitHub**: [https://github.com/michael-nagel](https://github.com/michael-nagel)
+* **Published Research**: [https://doi.org/10.1080/10705511.2023.2281279](https://doi.org/10.1080/10705511.2023.2281279)
+* 
+**LinkedIn**: [www.linkedin.com/in/michael-nagel-334116205](https://www.google.com/search?q=http://www.linkedin.com/in/michael-nagel-334116205) 
