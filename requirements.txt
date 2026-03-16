@@ -154,9 +154,7 @@ fsspec==2026.2.0
 google-crc32c==1.8.0
     # via aiortc
 gradio==6.9.0
-    # via
-    #   carrer-query (pyproject.toml)
-    #   spaces
+    # via carrer-query (pyproject.toml)
 gradio-client==2.3.0
     # via gradio
 greenlet==3.3.2
@@ -192,7 +190,6 @@ httpx==0.28.1
     #   ollama
     #   openai
     #   safehttpx
-    #   spaces
 httpx-sse==0.4.3
     # via
     #   langchain-community
@@ -401,7 +398,6 @@ packaging==26.0
     #   marshmallow
     #   plotly
     #   prance
-    #   spaces
 pandas==3.0.1
     # via gradio
 parse==1.21.1
@@ -434,10 +430,8 @@ protobuf==5.29.6
     # via
     #   autogen-core
     #   semantic-kernel
-psutil==5.9.8
-    # via
-    #   carrer-query (pyproject.toml)
-    #   spaces
+psutil==7.2.2
+    # via carrer-query (pyproject.toml)
 pure-eval==0.2.3
     # via stack-data
 pybars4==0.9.13
@@ -463,7 +457,6 @@ pydantic==2.11.10
     #   pydantic-settings
     #   semantic-kernel
     #   smithery
-    #   spaces
 pydantic-core==2.33.2
     # via pydantic
 pydantic-settings==2.13.1
@@ -545,7 +538,6 @@ requests==2.32.5
     #   openai-agents
     #   prance
     #   requests-toolbelt
-    #   spaces
     #   tiktoken
     #   wikipedia
 requests-toolbelt==1.0.0
@@ -588,8 +580,6 @@ sniffio==1.3.1
     #   openai
 soupsieve==2.8.3
     # via beautifulsoup4
-spaces==0.47.0
-    # via carrer-query (pyproject.toml)
 speedtest-cli==2.1.3
     # via carrer-query (pyproject.toml)
 sqlalchemy==2.0.48
@@ -668,7 +658,6 @@ typing-extensions==4.15.0
     #   pyopenssl
     #   referencing
     #   semantic-kernel
-    #   spaces
     #   sqlalchemy
     #   starlette
     #   typing-inspect
